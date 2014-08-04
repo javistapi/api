@@ -1,0 +1,620 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <fd>
+    <fdTime>1407068512300</fdTime>
+    <sports>
+      <sport>
+        <id>29</id>
+        <leagues>
+          <league>
+            <id>1728</id>
+            <events>
+              <event>
+                <startDateTime>2014-08-03T12:59:00Z</startDateTime>
+                <id>387203798</id>
+                <IsLive>No</IsLive>
+                <status>O</status>
+                <drawRotNum>5153</drawRotNum>
+                <homeTeam type="Team1">
+                  <name>Kalmar</name>
+                  <rotNum>5151</rotNum>
+                </homeTeam>
+                <awayTeam type="Team2">
+                  <name>Brommapojkarna</name>
+                  <rotNum>5152</rotNum>
+                </awayTeam>
+                <periods>
+                  <period lineId="140545450">
+                    <number>0</number>
+                    <description>Match</description>
+                    <cutoffDateTime>2014-08-03T12:59:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>1</awaySpread>
+                        <awayPrice>108</awayPrice>
+                        <homeSpread>-1</homeSpread>
+                        <homePrice>-118</homePrice>
+                      </spread>
+                      <spread altLineId="563124936">
+                        <awaySpread>1.5</awaySpread>
+                        <awayPrice>-158</awayPrice>
+                        <homeSpread>-1.5</homeSpread>
+                        <homePrice>140</homePrice>
+                      </spread>
+                      <spread altLineId="563124938">
+                        <awaySpread>1.25</awaySpread>
+                        <awayPrice>-124</awayPrice>
+                        <homeSpread>-1.25</homeSpread>
+                        <homePrice>113</homePrice>
+                      </spread>
+                      <spread altLineId="563124940">
+                        <awaySpread>0.75</awaySpread>
+                        <awayPrice>141</awayPrice>
+                        <homeSpread>-0.75</homeSpread>
+                        <homePrice>-159</homePrice>
+                      </spread>
+                      <spread altLineId="563124942">
+                        <awaySpread>0.5</awaySpread>
+                        <awayPrice>175</awayPrice>
+                        <homeSpread>-0.5</homeSpread>
+                        <homePrice>-203</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>2.75</points>
+                        <overPrice>102</overPrice>
+                        <underPrice>-114</underPrice>
+                      </total>
+                      <total altLineId="563124937">
+                        <points>2.25</points>
+                        <overPrice>-175</overPrice>
+                        <underPrice>149</underPrice>
+                      </total>
+                      <total altLineId="563124939">
+                        <points>2.5</points>
+                        <overPrice>-126</overPrice>
+                        <underPrice>112</underPrice>
+                      </total>
+                      <total altLineId="563124941">
+                        <points>3</points>
+                        <overPrice>137</overPrice>
+                        <underPrice>-159</underPrice>
+                      </total>
+                      <total altLineId="563124943">
+                        <points>3.25</points>
+                        <overPrice>169</overPrice>
+                        <underPrice>-204</underPrice>
+                      </total>
+                    </totals>
+                    <moneyLine>
+                      <awayPrice>574</awayPrice>
+                      <homePrice>-196</homePrice>
+                      <drawPrice>367</drawPrice>
+                    </moneyLine>
+                    <teamTotals>
+                      <homeTeamTotal>
+                        <total>1.75</total>
+                        <overPrice>-122</overPrice>
+                        <underPrice>107</underPrice>
+                      </homeTeamTotal>
+                      <awayTeamTotal>
+                        <total>0.75</total>
+                        <overPrice>105</overPrice>
+                        <underPrice>-119</underPrice>
+                      </awayTeamTotal>
+                    </teamTotals>
+                    <maxBetAmount>
+                      <spread>6000</spread>
+                      <totalPoints>4000</totalPoints>
+                      <moneyLine>3000</moneyLine>
+                      <teamTotals>1000</teamTotals>
+                    </maxBetAmount>
+                  </period>
+                  <period lineId="140545447">
+                    <number>1</number>
+                    <description>1st Half</description>
+                    <cutoffDateTime>2014-08-03T12:59:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.5</awaySpread>
+                        <awayPrice>-120</awayPrice>
+                        <homeSpread>-0.5</homeSpread>
+                        <homePrice>108</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>1</points>
+                        <overPrice>-123</overPrice>
+                        <underPrice>108</underPrice>
+                      </total>
+                    </totals>
+                    <maxBetAmount>
+                      <spread>2000</spread>
+                      <totalPoints>2000</totalPoints>
+                    </maxBetAmount>
+                  </period>
+                </periods>
+              </event>
+              <event>
+                <startDateTime>2014-08-03T15:29:00Z</startDateTime>
+                <id>387203799</id>
+                <IsLive>No</IsLive>
+                <status>O</status>
+                <drawRotNum>5156</drawRotNum>
+                <homeTeam type="Team1">
+                  <name>Elfsborg</name>
+                  <rotNum>5154</rotNum>
+                </homeTeam>
+                <awayTeam type="Team2">
+                  <name>Atvidabergs</name>
+                  <rotNum>5155</rotNum>
+                </awayTeam>
+                <periods>
+                  <period lineId="140539943">
+                    <number>0</number>
+                    <description>Match</description>
+                    <cutoffDateTime>2014-08-03T15:29:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>1.25</awaySpread>
+                        <awayPrice>112</awayPrice>
+                        <homeSpread>-1.25</homeSpread>
+                        <homePrice>-123</homePrice>
+                      </spread>
+                      <spread altLineId="563054401">
+                        <awaySpread>1.75</awaySpread>
+                        <awayPrice>-153</awayPrice>
+                        <homeSpread>-1.75</homeSpread>
+                        <homePrice>136</homePrice>
+                      </spread>
+                      <spread altLineId="563054403">
+                        <awaySpread>1.5</awaySpread>
+                        <awayPrice>-116</awayPrice>
+                        <homeSpread>-1.5</homeSpread>
+                        <homePrice>106</homePrice>
+                      </spread>
+                      <spread altLineId="563054405">
+                        <awaySpread>1</awaySpread>
+                        <awayPrice>159</awayPrice>
+                        <homeSpread>-1</homeSpread>
+                        <homePrice>-182</homePrice>
+                      </spread>
+                      <spread altLineId="563054407">
+                        <awaySpread>0.75</awaySpread>
+                        <awayPrice>197</awayPrice>
+                        <homeSpread>-0.75</homeSpread>
+                        <homePrice>-234</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>3</points>
+                        <overPrice>105</overPrice>
+                        <underPrice>-117</underPrice>
+                      </total>
+                      <total altLineId="563054402">
+                        <points>2.5</points>
+                        <overPrice>-161</overPrice>
+                        <underPrice>139</underPrice>
+                      </total>
+                      <total altLineId="563054404">
+                        <points>2.75</points>
+                        <overPrice>-127</overPrice>
+                        <underPrice>113</underPrice>
+                      </total>
+                      <total altLineId="563054406">
+                        <points>3.25</points>
+                        <overPrice>134</overPrice>
+                        <underPrice>-155</underPrice>
+                      </total>
+                      <total altLineId="563054408">
+                        <points>3.5</points>
+                        <overPrice>163</overPrice>
+                        <underPrice>-195</underPrice>
+                      </total>
+                    </totals>
+                    <moneyLine>
+                      <awayPrice>860</awayPrice>
+                      <homePrice>-279</homePrice>
+                      <drawPrice>442</drawPrice>
+                    </moneyLine>
+                    <teamTotals>
+                      <homeTeamTotal>
+                        <total>2.25</total>
+                        <overPrice>108</overPrice>
+                        <underPrice>-123</underPrice>
+                      </homeTeamTotal>
+                      <awayTeamTotal>
+                        <total>0.5</total>
+                        <overPrice>-127</overPrice>
+                        <underPrice>111</underPrice>
+                      </awayTeamTotal>
+                    </teamTotals>
+                    <maxBetAmount>
+                      <spread>6000</spread>
+                      <totalPoints>4000</totalPoints>
+                      <moneyLine>3000</moneyLine>
+                      <teamTotals>1000</teamTotals>
+                    </maxBetAmount>
+                  </period>
+                  <period lineId="140538522">
+                    <number>1</number>
+                    <description>1st Half</description>
+                    <cutoffDateTime>2014-08-03T15:29:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.5</awaySpread>
+                        <awayPrice>104</awayPrice>
+                        <homeSpread>-0.5</homeSpread>
+                        <homePrice>-115</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>1.25</points>
+                        <overPrice>105</overPrice>
+                        <underPrice>-119</underPrice>
+                      </total>
+                    </totals>
+                    <maxBetAmount>
+                      <spread>2000</spread>
+                      <totalPoints>2000</totalPoints>
+                    </maxBetAmount>
+                  </period>
+                </periods>
+              </event>
+              <event>
+                <startDateTime>2014-08-04T16:59:00Z</startDateTime>
+                <id>387203800</id>
+                <IsLive>No</IsLive>
+                <status>I</status>
+                <drawRotNum>5159</drawRotNum>
+                <homeTeam type="Team1">
+                  <name>Djurgardens</name>
+                  <rotNum>5157</rotNum>
+                </homeTeam>
+                <awayTeam type="Team2">
+                  <name>Helsingborgs</name>
+                  <rotNum>5158</rotNum>
+                </awayTeam>
+                <periods>
+                  <period lineId="140413699">
+                    <number>0</number>
+                    <description>Match</description>
+                    <cutoffDateTime>2014-08-04T16:59:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.25</awaySpread>
+                        <awayPrice>-101</awayPrice>
+                        <homeSpread>-0.25</homeSpread>
+                        <homePrice>-107</homePrice>
+                      </spread>
+                      <spread altLineId="561247261">
+                        <awaySpread>0.75</awaySpread>
+                        <awayPrice>-186</awayPrice>
+                        <homeSpread>-0.75</homeSpread>
+                        <homePrice>162</homePrice>
+                      </spread>
+                      <spread altLineId="561247263">
+                        <awaySpread>0.5</awaySpread>
+                        <awayPrice>-135</awayPrice>
+                        <homeSpread>-0.5</homeSpread>
+                        <homePrice>122</homePrice>
+                      </spread>
+                      <spread altLineId="561247265">
+                        <awaySpread>0</awaySpread>
+                        <awayPrice>143</awayPrice>
+                        <homeSpread>0</homeSpread>
+                        <homePrice>-162</homePrice>
+                      </spread>
+                      <spread altLineId="561247267">
+                        <awaySpread>-0.25</awaySpread>
+                        <awayPrice>188</awayPrice>
+                        <homeSpread>0.25</homeSpread>
+                        <homePrice>-221</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>2.75</points>
+                        <overPrice>106</overPrice>
+                        <underPrice>-118</underPrice>
+                      </total>
+                      <total altLineId="561247262">
+                        <points>2.25</points>
+                        <overPrice>-168</overPrice>
+                        <underPrice>144</underPrice>
+                      </total>
+                      <total altLineId="561247264">
+                        <points>2.5</points>
+                        <overPrice>-121</overPrice>
+                        <underPrice>108</underPrice>
+                      </total>
+                      <total altLineId="561247266">
+                        <points>3</points>
+                        <overPrice>142</overPrice>
+                        <underPrice>-166</underPrice>
+                      </total>
+                      <total altLineId="561247268">
+                        <points>3.25</points>
+                        <overPrice>175</overPrice>
+                        <underPrice>-212</underPrice>
+                      </total>
+                    </totals>
+                    <moneyLine>
+                      <awayPrice>235</awayPrice>
+                      <homePrice>122</homePrice>
+                      <drawPrice>256</drawPrice>
+                    </moneyLine>
+                    <maxBetAmount>
+                      <spread>3000</spread>
+                      <totalPoints>2000</totalPoints>
+                      <moneyLine>1500</moneyLine>
+                    </maxBetAmount>
+                  </period>
+                  <period lineId="140413700">
+                    <number>1</number>
+                    <description>1st Half</description>
+                    <cutoffDateTime>2014-08-04T16:59:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0</awaySpread>
+                        <awayPrice>127</awayPrice>
+                        <homeSpread>0</homeSpread>
+                        <homePrice>-145</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>1</points>
+                        <overPrice>-121</overPrice>
+                        <underPrice>106</underPrice>
+                      </total>
+                    </totals>
+                    <maxBetAmount>
+                      <spread>1000</spread>
+                      <totalPoints>1000</totalPoints>
+                    </maxBetAmount>
+                  </period>
+                </periods>
+              </event>
+              <event>
+                <startDateTime>2014-08-04T16:59:00Z</startDateTime>
+                <id>387203801</id>
+                <IsLive>No</IsLive>
+                <status>I</status>
+                <drawRotNum>5162</drawRotNum>
+                <homeTeam type="Team1">
+                  <name>Gefle</name>
+                  <rotNum>5160</rotNum>
+                </homeTeam>
+                <awayTeam type="Team2">
+                  <name>Mjallby</name>
+                  <rotNum>5161</rotNum>
+                </awayTeam>
+                <periods>
+                  <period lineId="140379120">
+                    <number>0</number>
+                    <description>Match</description>
+                    <cutoffDateTime>2014-08-04T16:59:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.5</awaySpread>
+                        <awayPrice>-120</awayPrice>
+                        <homeSpread>-0.5</homeSpread>
+                        <homePrice>109</homePrice>
+                      </spread>
+                      <spread altLineId="560750109">
+                        <awaySpread>1</awaySpread>
+                        <awayPrice>-263</awayPrice>
+                        <homeSpread>-1</homeSpread>
+                        <homePrice>217</homePrice>
+                      </spread>
+                      <spread altLineId="560750111">
+                        <awaySpread>0.75</awaySpread>
+                        <awayPrice>-164</awayPrice>
+                        <homeSpread>-0.75</homeSpread>
+                        <homePrice>145</homePrice>
+                      </spread>
+                      <spread altLineId="560750113">
+                        <awaySpread>0.25</awaySpread>
+                        <awayPrice>113</awayPrice>
+                        <homeSpread>-0.25</homeSpread>
+                        <homePrice>-124</homePrice>
+                      </spread>
+                      <spread altLineId="560750115">
+                        <awaySpread>0</awaySpread>
+                        <awayPrice>173</awayPrice>
+                        <homeSpread>0</homeSpread>
+                        <homePrice>-201</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>2.5</points>
+                        <overPrice>110</overPrice>
+                        <underPrice>-124</underPrice>
+                      </total>
+                      <total altLineId="560750110">
+                        <points>2</points>
+                        <overPrice>-180</overPrice>
+                        <underPrice>153</underPrice>
+                      </total>
+                      <total altLineId="560750112">
+                        <points>2.25</points>
+                        <overPrice>-119</overPrice>
+                        <underPrice>107</underPrice>
+                      </total>
+                      <total altLineId="560750114">
+                        <points>2.75</points>
+                        <overPrice>143</overPrice>
+                        <underPrice>-167</underPrice>
+                      </total>
+                      <total altLineId="560750116">
+                        <points>3</points>
+                        <overPrice>202</overPrice>
+                        <underPrice>-253</underPrice>
+                      </total>
+                    </totals>
+                    <moneyLine>
+                      <awayPrice>278</awayPrice>
+                      <homePrice>109</homePrice>
+                      <drawPrice>249</drawPrice>
+                    </moneyLine>
+                    <maxBetAmount>
+                      <spread>3000</spread>
+                      <totalPoints>2000</totalPoints>
+                      <moneyLine>1500</moneyLine>
+                    </maxBetAmount>
+                  </period>
+                  <period lineId="140379126">
+                    <number>1</number>
+                    <description>1st Half</description>
+                    <cutoffDateTime>2014-08-04T16:59:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.25</awaySpread>
+                        <awayPrice>-137</awayPrice>
+                        <homeSpread>-0.25</homeSpread>
+                        <homePrice>122</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>1</points>
+                        <overPrice>107</overPrice>
+                        <underPrice>-121</underPrice>
+                      </total>
+                    </totals>
+                    <maxBetAmount>
+                      <spread>1000</spread>
+                      <totalPoints>1000</totalPoints>
+                    </maxBetAmount>
+                  </period>
+                </periods>
+              </event>
+              <event>
+                <startDateTime>2014-08-04T17:04:00Z</startDateTime>
+                <id>387203802</id>
+                <IsLive>No</IsLive>
+                <status>I</status>
+                <drawRotNum>5165</drawRotNum>
+                <homeTeam type="Team1">
+                  <name>IFK Goteborg</name>
+                  <rotNum>5163</rotNum>
+                </homeTeam>
+                <awayTeam type="Team2">
+                  <name>AIK Solna</name>
+                  <rotNum>5164</rotNum>
+                </awayTeam>
+                <periods>
+                  <period lineId="140394221">
+                    <number>0</number>
+                    <description>Match</description>
+                    <cutoffDateTime>2014-08-04T17:04:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.5</awaySpread>
+                        <awayPrice>-114</awayPrice>
+                        <homeSpread>-0.5</homeSpread>
+                        <homePrice>104</homePrice>
+                      </spread>
+                      <spread altLineId="560970029">
+                        <awaySpread>1</awaySpread>
+                        <awayPrice>-231</awayPrice>
+                        <homeSpread>-1</homeSpread>
+                        <homePrice>195</homePrice>
+                      </spread>
+                      <spread altLineId="560970031">
+                        <awaySpread>0.75</awaySpread>
+                        <awayPrice>-152</awayPrice>
+                        <homeSpread>-0.75</homeSpread>
+                        <homePrice>136</homePrice>
+                      </spread>
+                      <spread altLineId="560970033">
+                        <awaySpread>0.25</awaySpread>
+                        <awayPrice>117</awayPrice>
+                        <homeSpread>-0.25</homeSpread>
+                        <homePrice>-129</homePrice>
+                      </spread>
+                      <spread altLineId="560970035">
+                        <awaySpread>0</awaySpread>
+                        <awayPrice>177</awayPrice>
+                        <homeSpread>0</homeSpread>
+                        <homePrice>-206</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>2.75</points>
+                        <overPrice>-103</overPrice>
+                        <underPrice>-107</underPrice>
+                      </total>
+                      <total altLineId="560970030">
+                        <points>2.25</points>
+                        <overPrice>-186</overPrice>
+                        <underPrice>157</underPrice>
+                      </total>
+                      <total altLineId="560970032">
+                        <points>2.5</points>
+                        <overPrice>-132</overPrice>
+                        <underPrice>117</underPrice>
+                      </total>
+                      <total altLineId="560970034">
+                        <points>3</points>
+                        <overPrice>129</overPrice>
+                        <underPrice>-148</underPrice>
+                      </total>
+                      <total altLineId="560970036">
+                        <points>3.25</points>
+                        <overPrice>161</overPrice>
+                        <underPrice>-192</underPrice>
+                      </total>
+                    </totals>
+                    <moneyLine>
+                      <awayPrice>273</awayPrice>
+                      <homePrice>104</homePrice>
+                      <drawPrice>269</drawPrice>
+                    </moneyLine>
+                    <maxBetAmount>
+                      <spread>3000</spread>
+                      <totalPoints>2000</totalPoints>
+                      <moneyLine>1500</moneyLine>
+                    </maxBetAmount>
+                  </period>
+                  <period lineId="140394222">
+                    <number>1</number>
+                    <description>1st Half</description>
+                    <cutoffDateTime>2014-08-04T17:04:00Z</cutoffDateTime>
+                    <spreads>
+                      <spread>
+                        <awaySpread>0.25</awaySpread>
+                        <awayPrice>-132</awayPrice>
+                        <homeSpread>-0.25</homeSpread>
+                        <homePrice>117</homePrice>
+                      </spread>
+                    </spreads>
+                    <totals>
+                      <total>
+                        <points>1</points>
+                        <overPrice>-134</overPrice>
+                        <underPrice>116</underPrice>
+                      </total>
+                    </totals>
+                    <maxBetAmount>
+                      <spread>1000</spread>
+                      <totalPoints>1000</totalPoints>
+                    </maxBetAmount>
+                  </period>
+                </periods>
+              </event>
+            </events>
+          </league>
+        </leagues>
+      </sport>
+    </sports>
+  </fd>
+</rsp>
+
